@@ -7,7 +7,6 @@ image: "img/f.jpg"
 date:   2016-07-31 12:00:00
 ---
 
-### What I do
 I'm a software developer. I provide tools to help businesses and companies turn concepts into reality. In my free time, I love to trek, dive, cycle, take photos and climb mountains.
 
 Full-stack web dev skills (MEAN stack, Rails)
@@ -15,6 +14,7 @@ Web design
 
 Languages
 * Javascript
+
 * Ruby
 * Python
 
@@ -25,6 +25,7 @@ Rails
 
 # Data analysis
 # Data engineering and analysis (Python)
+
 Webscraping
 Data Analysis
 Agile Development

@@ -1,35 +1,34 @@
 ---
 title:  "About Me"
-subtitle: "What I do"
+subtitle: " "
 author: "David Tan"
 avatar: "img/authors/david-tiny.jpg"
 image: "img/f.jpg"
 date:   2016-07-31 12:00:00
 ---
 
-I'm a software developer. I provide tools to help businesses and companies turn concepts into reality. In my free time, I love to trek, dive, cycle, take photos and climb mountains.
+I'm a full-stack web developer. I provide tools to help businesses and companies turn concepts into reality. In my free time, I love to trek, dive, cycle, take photos and climb mountains.
 
-Full-stack web dev skills (MEAN stack, Rails)
-Web design
-
-Languages
+### Languages spoken:
 * Javascript
-
-* Ruby
 * Python
+* Ruby
 
-Frameworks:
-Express
-Angular
-Rails
+### Frameworks:
+* Express
+* Angular 1
+* Rails 5
 
-# Data analysis
-# Data engineering and analysis (Python)
+### Data analysis
+* Data engineering and analysis (Python)
+* Data visualisation (plotly, d3.js)
+* Webscraping
 
-Webscraping
-Data Analysis
-Agile Development
-Test Driven Development (RSpec / MiniTest / Jasmine / Mocha / Karma)
-Data analysis and visualisation (Python, d3.js)  
+### Development practices
+* Agile development
+* Test-driven development (Mocha, Karma, RSpec)
 
-Research and analysis  Webscraping  Product Design    Team Management  Teaching  Hobbies: Photography, music production
+### General
+* Web design
+* Coaching
+* Team management

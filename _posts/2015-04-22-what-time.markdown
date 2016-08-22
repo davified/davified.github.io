@@ -1,10 +1,10 @@
 ---
 title:  "Watches"
 subtitle: "The Bigger the better?"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
+author: "David"
+avatar: "img/authors/david-tiny.jpg"
 image: "img/c.jpg"
-date:   2015-04-22 12:12:12
+date:   2016-07-31 12:00:00
 ---
 
 ### Dolor sit amet?

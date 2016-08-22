@@ -1,10 +1,10 @@
 ---
 title:  "Nobody else was around."
 subtitle: "A Beautiful shot during the night."
-author: "Wferr"
-avatar: "img/authors/wferr.png"
+author: "David"
+avatar: "img/authors/david-tiny.jpg"
 image: "img/b.jpg"
-date:   2015-04-21 12:12:12
+date:   2016-07-31 12:00:00
 ---
 
 ### Dolor sit amet?

@@ -1,0 +1,41 @@
+---
+title:  "Professional experience"
+subtitle: " "
+author: "David"
+avatar: "img/authors/david-tiny.jpg"
+image: "img/e.jpg"
+date:   2016-07-31 12:00:00
+---
+
+What I do
+
+### Teaching Assistant, General Assembly
+*Singapore, August 2016 - present*
+
+At General Assembly's Web Development Immersive course, I assist in training a class of 20 students in becoming full-stack web developers.
+
+---
+
+### Assistant Director, Ministry of Trade and Industry
+*Singapore, August 2013 - May 2016*
+
+I have two years of corporate experience in (i) research and economic analysis, (ii) project management, (iii) trade negotiations and (iv) strategic planning.
+
+In my research portfolio, I analyzed trade flows and sectoral economic data to produce policy insights and actionable recommendations.
+
+I also saw through the development and deployment of a Customer Relationship Management (CRM) system for MTI. As the project manager on the business end, I managed the collaboration process with end-users and MTI management to ensure that the system met the needs of business users and provided a streamlined user experience.
+
+I was part of the team which renegotiated the Singapore-Australia Free Trade Agreement and the Korea-Singapore Free Trade Agreement (KSFTA). I also provided support to MTI's senior management on MTI's organizational and strategic planning.
+
+---
+
+### Research Intern, International Centre for Trade and Sustainable Development (ICTSD)
+*Geneva, Switzerland, May 2012 – July 2012*
+
+At ICTSD, which is one of the most influential think tanks on international trade, I researched and provided content for wrote for their flagship publication, Bridges Weekly. Some of the topics which I covered include EU carbon emissions regulation, Trans-Pacific Partnership negotiations, FTA negotiations (EU-Central America; China-Japan-Korea), US farm bill, EU CAP reform and WTO disputes.
+
+---
+
+### Publications intern
+*Washington DC, USA, June 2011 – August 2011*
+I drafted weekly trade policy updates arising from developments in Washington DC, Geneva and other relevant countries. I reported on trade issues such as the Trans-Pacific Partnership (TPP) and anti-dumping and countervailing duties (AD/CVD), among other issues.

@@ -1,7 +1,7 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
+title: David Tan
+description: David Tan | Full-stack web developer and data science enthusiast.
+keywords: Web development, data science, code, coding, programming, tutorials, learning, general assembly,
+author: David Tan
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "davified.github.io" # the base hostname & protocol for your site

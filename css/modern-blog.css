@@ -420,17 +420,17 @@ body {
 	border-radius: 3.6rem;
 	margin: -1.8rem;
 }
-.twitter span {
+.fa-twitter span {
 	background-color: #4099ff;
 }
-.github span {
+.fa-github span {
 	background-color: #000;
 }
-.google-plus span {
+.fa-google-plus span {
 	background-color: #db5a3c;
 }
 
-.linkedin span {
+.fa-linkedin span {
 	background-color: #0075B1;
 }
 

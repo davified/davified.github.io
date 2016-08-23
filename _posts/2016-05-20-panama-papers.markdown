@@ -3,7 +3,7 @@ title:  "Panama Papers"
 subtitle: " "
 author: "David"
 avatar: "img/authors/david-tiny.jpg"
-image: "img/predictive-analytics.png"
+image: "img/panama.jpg"
 date:   2016-05-20 12:00:00
 ---
 

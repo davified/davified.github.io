@@ -3,7 +3,7 @@ title:  "Snoke"
 subtitle: " "
 author: "David"
 avatar: "img/authors/david-tiny.jpg"
-image: "img/final/snake-demo.gif"
+image: "img/snake-demo.gif"
 date:   2016-06-01 12:00:00
 ---
 

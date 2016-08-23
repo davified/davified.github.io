@@ -3,7 +3,7 @@ title:  "Volunteer now"
 subtitle: " "
 author: "David"
 avatar: "img/authors/david-tiny.jpg"
-image: "img/final/volunteer-min.jpg"
+image: "img/volunteer-min.jpg"
 date:   2016-05-25 12:00:00
 ---
 

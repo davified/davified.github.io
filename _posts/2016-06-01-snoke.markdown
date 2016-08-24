@@ -7,8 +7,12 @@ image: "img/snake-demo.gif"
 date:   2016-06-01 12:00:00
 ---
 
-Recreating the classic 3310 game with Javascript and a twist  
+### The Idea
 
-Built with: Vanilla Javascript  
+* Recreating the classic 3310 game with Javascript and a twist  
+
+### The Stack
+
+* Built with: Vanilla Javascript  
 * Demo: [https://davified.github.io/snake-game](https://davified.github.io/snake-game)  
 * Code: [https://www.github.com/davified/snake-game](https://www.github.com/davified/snake-game)  

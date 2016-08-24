@@ -7,9 +7,12 @@ image: "img/carpark.jpg"
 date:   2016-07-31 12:00:00
 ---
 
-Real-time data on carpark availability
+### The Idea
 
-Built with: Node, Express and Leaflet.js
+* Carparks-SG provides real-time data (updated every minute) on carpark availability in the CBD area. The data is kindly made available by LTA Data Mall.
 
+
+### The Stack
+* Built with: Node, Express and Leaflet.js
 * Demo: [https://carparks-sg.herokuapp.com](https://carparks-sg.herokuapp.com)  
 * Code: [https://github.com/davified/project-3a-clean](https://github.com/davified/project-3a-clean)  

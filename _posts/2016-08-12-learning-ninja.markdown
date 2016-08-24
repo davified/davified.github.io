@@ -20,7 +20,9 @@ The app hopes to:
 - encourage active learning through guided hints
 - reduce teachers' workload (no marking needed!)
 
-Built with: MongoDB, Express, Angular 1, Node  
-- Demo: [https://learning-ninja.herokuapp.com](https://learning-ninja.herokuapp.com)  
-- Code (client): [https://github.com/davified/tutor-client](https://github.com/davified/tutor-client)  
-- Code (server): [https://github.com/davified/tutor-api](https://github.com/davified/tutor-api)  
+### The Stack
+
+* Built with: MongoDB, Express, Angular 1, Node  
+* Demo: [https://learning-ninja.herokuapp.com](https://learning-ninja.herokuapp.com)  
+* Code (client): [https://github.com/davified/tutor-client](https://github.com/davified/tutor-client)  
+* Code (server): [https://github.com/davified/tutor-api](https://github.com/davified/tutor-api)  

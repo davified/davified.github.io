@@ -9,12 +9,12 @@ date:   2016-08-21 12:00:00
 
 I'm a full-stack web developer. I provide tools to help businesses and companies turn concepts into reality. In my free time, I love to trek, dive, cycle, take photos and climb mountains.
 
-### Languages spoken:
+### Languages spoken
 * Javascript
 * Python
 * Ruby
 
-### Frameworks:
+### Frameworks
 * Express
 * Angular 1
 * Rails 5

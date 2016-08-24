@@ -7,7 +7,9 @@ image: "img/panama.jpg"
 date:   2016-05-20 12:00:00
 ---
 
-An analysis of the Panama Papers  
+###The Idea
+* Practicing python with the Panama Papers dataset
 
-Done with: Python (pandas and plotly)
+### The Stack
+* Done on Python (pandas and plotly)
 * Code: [http://bit.ly/2buwv3R](http://bit.ly/2buwv3R)  

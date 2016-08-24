@@ -10,7 +10,14 @@ date:   2016-08-01 12:00:00
 
 Say goodbye to internet junk
 
-Built with: MongoDB, Express, Node, JQuery  
+### The Idea
+
+- Readr is an app that allows people to share and read awesome articles, without the ads.
+- By just pasting the url link, the user can read the article in a clean interface, and the app will automatically generate summaries (TL;DRs) and tags using the diffbot API.
+
+### The Stack:
+
+* Built with: MongoDB, Express, Node, JQuery  
 * Demo: [https://flight846.github.io/readr-client](https://flight846.github.io/readr-client)  
 * Code (client): [https://github.com/flight846/readr-client](https://github.com/flight846/readr-client)  
 * Code (server): [https://github.com/davified/readr](https://github.com/davified/readr)  

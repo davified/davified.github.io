@@ -13,7 +13,7 @@ Say goodbye to internet junk
 ### The Idea
 
 - Readr is an app that allows people to share and read awesome articles, without the ads.
-- By just pasting the url link, the user can read the article in a clean interface, and the app will automatically generate summaries (TL;DRs) and tags using the diffbot API.
+- By just pasting the url link, the user can read the article in a clean interface, and the app will automatically generate summaries (TL;DRs) and topic tags.
 
 ### The Stack:
 

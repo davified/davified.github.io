@@ -11,6 +11,8 @@ The List
 
 # My reading list (books)
 
+(PDF versions available [here](http://bit.ly/2eP0swQ))
+
 1. ~~Eloquent Javascript by Marijn Haverbeke~~
 2. Think (X) series (~~'Think Python'~~, 'Think Java', 'Think Complexity', 'Think Stats', 'Think Bayes') by Allen B. Downey
 3. The Design of Everyday Things by Don Norman
@@ -18,8 +20,6 @@ The List
 5. Design Patterns by Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides
 6. Introduction to Algorithms (Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein)
 7. Refactoring: Improving the Design of Existing Code by Martin Fowler, Kent Beck, John Brant, William Opdyke, don Roberts
-
-(PDF versions available [here](http://bit.ly/2eP0swQ))
 
 # My reading list (online)
 

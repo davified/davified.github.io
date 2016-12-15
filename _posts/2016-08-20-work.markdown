@@ -9,8 +9,15 @@ date:   2016-08-20 12:00:00
 
 What I do
 
+### Graduate Developer, Thoughtworks
+*Singapore, December 2016 - present*
+
+Thoughtworker-in-training :-)
+
+---
+
 ### Teaching Assistant, General Assembly
-*Singapore, August 2016 - present*
+*Singapore, August 2016 - December 2016*
 
 At General Assembly's Web Development Immersive course, I assist in training a class of 20 students in becoming full-stack web developers.
 

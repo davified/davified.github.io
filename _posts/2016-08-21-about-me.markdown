@@ -12,9 +12,12 @@ I'm a full-stack web developer. I provide tools to help businesses and companies
 # Languages spoken
 
 - Javascript
-- Typescript
-- Python
 - Ruby
+- Python
+- SQL
+- Typescript
+- Java
+- Bash
 
 # Frameworks
 

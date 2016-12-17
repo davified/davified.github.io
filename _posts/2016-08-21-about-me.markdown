@@ -22,8 +22,7 @@ I'm a full-stack web developer. I provide tools to help businesses and companies
 # Frameworks
 
 - Express
-- Angular 1
-- Angular 2
+- Angular 1 & 2
 - Rails 5
 
 # Data analysis
@@ -36,9 +35,3 @@ I'm a full-stack web developer. I provide tools to help businesses and companies
 
 - Agile development
 - Test-driven development (Mocha, Karma, RSpec)
-
-# General
-
-- Web design
-- Coaching
-- Team management
